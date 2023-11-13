@@ -125,8 +125,8 @@ body:
       label: What is the full stack trace of any errors you encountered?
       description: |
         When errors occur, please include the output of `--stacktrace` for Gradle or `--debug` for Maven.
-    placeholder: |
-      Stacktrace output here
+      placeholder: |
+        Stacktrace output here
     validations:
       required: false
 
